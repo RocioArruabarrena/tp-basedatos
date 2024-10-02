@@ -1,0 +1,56 @@
+
+[
+    {
+         "comentario": "Crear un diagrama de base de datos documental para una cerrajeria.",
+         "productos": [
+            {
+                "id": 1,
+                "nombre": "Llave maestra",
+                "categorias": "Llaves",
+                "stock": 20,
+                "precio": 20.000,
+                "proovedor": "Cerrajería Global",
+                "material": "Acero",
+                "prod_descripcion": "Llave maestra para sistemas de cerraduras"
+            },
+            {
+                "id": 2,
+                "nombre": "Cerradura de sobreponer",
+                "categorias": "Cerraduras",
+                "stock": 50,
+                "precio": 60.000,
+                "proovedor": "Seguridad Total",
+                "material": "Acero inoxidable",
+                "prod_descripcion": "Cerradura original para vehículos"
+            }
+         ]
+         
+    },
+
+    {
+        "servicios": [
+          {
+            "id": 1,
+            "nombre": "Instalación de cerraduras",
+            "precio": 1000,
+            "duracion": "1 hora",
+            "descripcion": "Instalación profesional de cerraduras en puertas",
+            "disponibilidad": "Lunes a Sábado"
+          },
+          {
+            "id": 2,
+            "nombre": "Apertura de puertas",
+            "precio": 5000,
+            "duracion": "30 minutos",
+            "descripcion": "Servicio de apertura de puertas en caso de pérdida de llaves o bloqueo.",
+            "disponibilidad": "24/7"
+          }
+        ]
+    }      
+]
+
+
+
+
+
+
